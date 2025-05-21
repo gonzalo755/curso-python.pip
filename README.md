@@ -3,3 +3,4 @@
 ''' sh
 cd game
 pytho main.py
+'''
