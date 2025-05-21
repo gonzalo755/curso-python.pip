@@ -1,6 +1,5 @@
 # curso-python.pip
-
-´´´ sh
+```sh
 cd game
-pytho main.py
-´´´
+python3 main.py
+```
